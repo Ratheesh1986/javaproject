@@ -1,7 +1,7 @@
-public class Helloworld {
-public static void main(String[] args) {
-system.out.println("Happy Logic");
- }
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello LOGIC TVPM");
+  }
 }
 
 
